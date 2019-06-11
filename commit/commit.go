@@ -1,7 +1,7 @@
 package commit
 
 import (
-	"github.com/stevenmatthewt/semantics/bump"
+	"github.com/alexbeltran/semantics/bump"
 )
 
 // Commits stores a list of commits

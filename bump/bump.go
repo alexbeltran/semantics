@@ -3,8 +3,8 @@ package bump
 import (
 	"fmt"
 
-	"github.com/stevenmatthewt/semantics/output"
-	"github.com/stevenmatthewt/semantics/tag"
+	"github.com/alexbeltran/semantics/output"
+	"github.com/alexbeltran/semantics/tag"
 )
 
 // Bump represents an object that is capable of taking a tag
